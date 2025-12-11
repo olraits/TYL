@@ -1,46 +1,46 @@
 
 #EXTM3U
-#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="" group-title="All-New-TYL,Animax
+#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="" group-title="All-New-TYL",Animax
 https://smart.946985.filegear-sg.me/smart.php?id=Animax
-#EXTINF:-1 tvg-id="Movies Now HD" tvg-name="Movies Now HD" tvg-logo="" group-title="All-New-TYL,Movies Now HD
+#EXTINF:-1 tvg-id="Movies Now HD" tvg-name="Movies Now HD" tvg-logo="" group-title="All-New-TYL",Movies Now HD
 https://smart.946985.filegear-sg.me/smart.php?id=moviesnow_raj
-#EXTINF:-1 tvg-id="Star Movies HD" tvg-name="Star Movies HD" tvg-logo="" group-title="All-New-TYL,Star Movies HD
+#EXTINF:-1 tvg-id="Star Movies HD" tvg-name="Star Movies HD" tvg-logo="" group-title="All-New-TYL",Star Movies HD
 https://smart.946985.filegear-sg.me/smart.php?id=starmovies_raj
-#EXTINF:-1 tvg-id="Hits" tvg-name="Hits" tvg-logo="" group-title="All-New-TYL,Hits
+#EXTINF:-1 tvg-id="Hits" tvg-name="Hits" tvg-logo="" group-title="All-New-TYL",Hits
 https://smart.946985.filegear-sg.me/smart.php?id=Hits
-#EXTINF:-1 tvg-id="Warner TV" tvg-name="Warner TV" tvg-logo="" group-title="All-New-TYL,Warner TV
+#EXTINF:-1 tvg-id="Warner TV" tvg-name="Warner TV" tvg-logo="" group-title="All-New-TYL",Warner TV
 https://smart.946985.filegear-sg.me/smart.php?id=WarnerTV
-#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="" group-title="All-New-TYL,HBO HD
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="" group-title="All-New-TYL",HBO HD
 https://smart.946985.filegear-sg.me/smart.php?id=Hbo
-#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="" group-title="All-New-TYL,HBO Signature
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="" group-title="All-New-TYL",HBO Signature
 https://smart.946985.filegear-sg.me/smart.php?id=Hbosignature
-#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="" group-title="All-New-TYL,HBO Family
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="" group-title="All-New-TYL",HBO Family
 https://smart.946985.filegear-sg.me/smart.php?id=Hbofamily
-#EXTINF:-1 tvg-id="HBO Hits" tvg-name="HBO Hits" tvg-logo="" group-title="All-New-TYL,HBO Hits
+#EXTINF:-1 tvg-id="HBO Hits" tvg-name="HBO Hits" tvg-logo="" group-title="All-New-TYL",HBO Hits
 https://smart.946985.filegear-sg.me/smart.php?id=Hbohitshd
-#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="" group-title="All-New-TYL,Cinemax
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="" group-title="All-New-TYL",Cinemax
 https://smart.946985.filegear-sg.me/smart.php?id=Cinemax
-#EXTINF:-1 tvg-id="Dreamworks" tvg-name="Dreamworks" tvg-logo="" group-title="All-New-TYL,Dreamworks
+#EXTINF:-1 tvg-id="Dreamworks" tvg-name="Dreamworks" tvg-logo="" group-title="All-New-TYL",Dreamworks
 https://smart.946985.filegear-sg.me/smart.php?id=Dreamworks
-#EXTINF:-1 tvg-id="SCM" tvg-name="SCM" tvg-logo="" group-title="All-New-TYL,SCM
+#EXTINF:-1 tvg-id="SCM" tvg-name="SCM" tvg-logo="" group-title="All-New-TYL",SCM
 https://smart.946985.filegear-sg.me/smart.php?id=Weishimovie
-#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="" group-title="All-New-TYL,Thrill
+#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="" group-title="All-New-TYL",Thrill
 https://smart.946985.filegear-sg.me/smart.php?id=Thrill
-#EXTINF:-1 tvg-id="Hits Movie" tvg-name="Hits Movie" tvg-logo="" group-title="All-New-TYL,Hits Movie
+#EXTINF:-1 tvg-id="Hits Movie" tvg-name="Hits Movie" tvg-logo="" group-title="All-New-TYL",Hits Movie
 https://smart.946985.filegear-sg.me/smart.php?id=Hitsmovie
-#EXTINF:-1 tvg-id="One" tvg-name="One" tvg-logo="" group-title="All-New-TYL,One
+#EXTINF:-1 tvg-id="One" tvg-name="One" tvg-logo="" group-title="All-New-TYL",One
 https://smart.946985.filegear-sg.me/smart.php?id=One
-#EXTINF:-1 tvg-id="tvN Movie" tvg-name="tvN Movie" tvg-logo="" group-title="All-New-TYL,tvN Movie
+#EXTINF:-1 tvg-id="tvN Movie" tvg-name="tvN Movie" tvg-logo="" group-title="All-New-TYL",tvN Movie
 https://smart.946985.filegear-sg.me/smart.php?id=Tvnmovie
-#EXTINF:-1 tvg-id="Axn HD" tvg-name="Axn HD" tvg-logo="" group-title="All-New-TYL,Axn HD
+#EXTINF:-1 tvg-id="Axn HD" tvg-name="Axn HD" tvg-logo="" group-title="All-New-TYL",Axn HD
 https://smart.946985.filegear-sg.me/smart.php?id=Axn
-#EXTINF:-1 tvg-id="Paramount Network" tvg-name="Paramount Network" tvg-logo="" group-title="All-New-TYL,Paramount Network
+#EXTINF:-1 tvg-id="Paramount Network" tvg-name="Paramount Network" tvg-logo="" group-title="All-New-TYL",Paramount Network
 https://smart.946985.filegear-sg.me/smart.php?id=Paramountnetwork
-#EXTINF:-1 tvg-id="Astrol Kplus" tvg-name="Astrol Kplus" tvg-logo="" group-title="All-New-TYL,Astrol Kplus
+#EXTINF:-1 tvg-id="Astrol Kplus" tvg-name="Astrol Kplus" tvg-logo="" group-title="All-New-TYL",Astrol Kplus
 https://smart.946985.filegear-sg.me/smart.php?id=Kplus
-#EXTINF:-1 tvg-id="Rock Actions" tvg-name="Rock Actions" tvg-logo="" group-title="All-New-TYL,Rock Actions
+#EXTINF:-1 tvg-id="Rock Actions" tvg-name="Rock Actions" tvg-logo="" group-title="All-New-TYL",Rock Actions
 https://smart.946985.filegear-sg.me/smart.php?id=Rockaction
-#EXTINF:-1 tvg-id="Rock Entertainment" tvg-name="Rock Entertainment" tvg-logo="" group-title="All-New-TYL,Rock Entertainment
+#EXTINF:-1 tvg-id="Rock Entertainment" tvg-name="Rock Entertainment" tvg-logo="" group-title="All-New-TYL",Rock Entertainment
 https://smart.946985.filegear-sg.me/smart.php?id=Rockentertain
 #EXTINF:-1 tvg-id="Natgeo_HD" tvg-name="Natgeo_HD" tvg-logo="" group-title="TYL2",Natgeo_HD
 https://smart.946985.filegear-sg.me/smart.php?id=natgeohd_twn
