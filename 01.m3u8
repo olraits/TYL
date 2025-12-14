@@ -74,7 +74,7 @@ https://op-group2-swiftservehd-1.dens.tv/h/h05/02.m3u8
 https://op-group2-swiftservehd-1.dens.tv/h/h05/01.m3u8
 #EXTINF:-1 tvg-id="Animax" tvg-name="JakTV" tvg-logo="" group-title="All-New-TYL#2",JakTV
 https://op-group1-swiftservesd-1.dens.tv/s/s123/S4/mnf.m3u8
-#EXTINF:-1 tvg-id="Animax" tvg-name="Jowo" tvg-logo="" group-title="All-New-TYL#2"Jowo
+#EXTINF:-1 tvg-id="Animax" tvg-name="Jowo" tvg-logo="" group-title="All-New-TYL#2",Jowo
 https://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h208/01.m3u8
 #EXTINF:-1 tvg-id="Animax" tvg-name="Know" tvg-logo="" group-title="All-New-TYL#2",Know
@@ -86,6 +86,32 @@ https://op-group1-swiftservehd-1.dens.tv/h/h123/live.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h09/02.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8
 
+#EXTINF:-1 tvg-id="Animax" tvg-name="Elshinta" tvg-logo="" group-title="All-New-TYL#2",Elshinta
+https://op-group2-swiftservesd-1.dens.tv/s/s12/S1/mnf.m3u8
+https://op-group2-swiftservesd-1.dens.tv/s/s12/S4/mnf.m3u8
+#EXTINF:-1 tvg-id="Animax" tvg-name="Kbs" tvg-logo="" group-title="All-New-TYL#2",Kbs
+https://op-group1-swiftservehd-1.dens.tv/h/h241/02.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h241/01.m3u8
+#EXTINF:-1 tvg-id="Animax" tvg-name="Kbsw" tvg-logo="" group-title="All-New-TYL#2",Kbsw
+https://op-group1-swiftservehd-1.dens.tv/h/h243/02.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h243/01.m3u8
+#EXTINF:-1 tvg-id="Animax" tvg-name="K+" tvg-logo="" group-title="All-New-TYL#2", Kplus
+https://op-group1-swiftservehd-1.dens.tv/h/h08/02.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
+#EXTINF:-1 tvg-id="Animax" tvg-name="Magna" tvg-logo="" group-title="All-New-TYL#2",Magna
+https://op-group1-swiftservehd-1.dens.tv/h/h24/02.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h24/01.m3u8
+#EXTINF:-1 tvg-id="Animax" tvg-name="Life" tvg-logo="" group-title="All-New-TYL#2",Life
+https://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h222/01.m3u8
+#EXTINF:-1 tvg-id="Animax" tvg-name="Mekkah" tvg-logo="" group-title="All-New-TYL#2",Mekkah
+https://op-group1-swiftservesd-1.dens.tv/s/s28/02.m3u8
+https://op-group1-swiftservesd-1.dens.tv/s/s28/01.m3u8
+#EXTINF:-1 tvg-id="Animax" tvg-name="Madinah" tvg-logo="" group-title="All-New-TYL#2",Madinah
+https://op-group1-swiftservesd-1.dens.tv/s/s27/02.m3u8
+https://op-group1-swiftservesd-1.dens.tv/s/s27/01.m3u8
+
+=====================================================================================================================
 #EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="" group-title="All-New-TYL",Animax
 https://smart.946985.filegear-sg.me/smart.php?id=Animax
 #EXTINF:-1 tvg-id="Movies Now HD" tvg-name="Movies Now HD" tvg-logo="" group-title="All-New-TYL",Movies Now HD
