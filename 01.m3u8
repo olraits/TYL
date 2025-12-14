@@ -1,5 +1,53 @@
 
 #EXTM3U
+#EXTINF:-1 tvg-id="Animax" tvg-name="TRT" tvg-logo="" group-title="All-New-TYL#2",TRT
+https://op-group1-swiftservehd-1.dens.tv/h/h156/S4/mnf.m3u8
+#EXTINF:-1 tvg-id="Animax" tvg-name="ALZRAA" tvg-logo="" group-title="All-New-TYL#2",Aljazeera (EN)
+https://op-group1-swiftservehd-1.dens.tv/h/h143/index2.m3u8?app_type=web&userid=lite&chname=Al_Jazeera_English
+#EXTINF:-1 tvg-id="Animax" tvg-name="ANI+" tvg-logo="" group-title="All-New-TYL#2",ANI+
+https://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&userid=lite&chname=ANIPLUS_HD
+#EXTINF:-1 tvg-id="Animax" tvg-name="Antv" tvg-logo="" group-title="All-New-TYL#2",AnTV
+https://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h235/01.m3u8
+#EXTINF:-1 tvg-id="Animax" tvg-name="CCM" tvg-logo="" group-title="All-New-TYL#2",CCM
+https://op-group1-swiftservesd-1.dens.tv/s/s31/02.m3u8
+https://op-group1-swiftservesd-1.dens.tv/s/s31/01.m3u8
+#EXTINF:-1 tvg-id="Animax" tvg-name="Celestial" tvg-logo="" group-title="All-New-TYL#2",Celestial
+https://op-group2-swiftservehd-1.dens.tv/h/h14/02.m3u8
+https://op-group2-swiftservehd-1.dens.tv/h/h14/01.m3u8
+#EXTINF:-1 tvg-id="Animax" tvg-name="Classica" tvg-logo="" group-title="All-New-TYL#2",Classica
+https://op-group1-swiftservehd-1.dens.tv/h/h229/S4/mnf.m3u8
+#EXTINF:-1 tvg-id="Animax" tvg-name="Endosyar" tvg-logo="" group-title="All-New-TYL#2",Endosiyar
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h235/01.m3u8
+
+#EXTINF:-1 tvg-id="Animax" tvg-name="Kompass" tvg-logo="" group-title="All-New-TYL#2",Kompass
+https://op-group1-swiftservehd-1.dens.tv/s/s104/02.m3u8
+https://op-group1-swiftservehd-1.dens.tv/s/s104/01.m3u8
+#EXTINF:-1 tvg-id="Animax" tvg-name="Metrotv" tvg-logo="" group-title="All-New-TYL#2",Metrotv
+https://op-group1-swiftservehd-1.dens.tv/h/h12/02.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
+#EXTINF:-1 tvg-id="Animax" tvg-name="MDTV" tvg-logo="" group-title="All-New-TYL#2",MDTV
+https://op-group1-swiftservesd-1.dens.tv/h/h06/02.m3u8
+https://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
+#EXTINF:-1 tvg-id="Animax" tvg-name="RockAct" tvg-logo="" group-title="All-New-TYL#2",RockAct
+https://op-group2-swiftservehd-1.dens.tv/h/h15/02.m3u8
+https://op-group2-swiftservehd-1.dens.tv/h/h15/01.m3u8
+#EXTINF:-1 tvg-id="Animax" tvg-name="RockEnt" tvg-logo="" group-title="All-New-TYL#2",RockEnt
+https://op-group2-swiftservehd-1.dens.tv/h/h16/02.m3u8
+https://op-group2-swiftservehd-1.dens.tv/h/h16/01.m3u8
+#EXTINF:-1 tvg-id="Animax" tvg-name="SCTV" tvg-logo="" group-title="All-New-TYL#2",SCTV
+https://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
+#EXTINF:-1 tvg-id="Animax" tvg-name="trans7" tvg-logo="" group-title="All-New-TYL#2",Trans7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w940167653_b744100_sleng.m3u8
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w940167653_b544100_sleng.m3u8
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w940167653_b344100_sleng.m3u8
+#EXTINF:-1 tvg-id="Animax" tvg-name="Transtv" tvg-logo="" group-title="All-New-TYL#2",Transtv
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w64772345_b744100_sleng.m3u8
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w64772345_b544100_sleng.m3u8
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w64772345_b344100_sleng.m3u8
+
 #EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="" group-title="All-New-TYL",Animax
 https://smart.946985.filegear-sg.me/smart.php?id=Animax
 #EXTINF:-1 tvg-id="Movies Now HD" tvg-name="Movies Now HD" tvg-logo="" group-title="All-New-TYL",Movies Now HD
