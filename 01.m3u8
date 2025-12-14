@@ -44,9 +44,28 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w940167653_b744100_sle
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w940167653_b544100_sleng.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w940167653_b344100_sleng.m3u8
 #EXTINF:-1 tvg-id="Animax" tvg-name="Transtv" tvg-logo="" group-title="All-New-TYL#2",Transtv
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w64772345_b344100_sleng.m3u8
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w64772345_b744100_sleng.m3u8
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w64772345_b544100_sleng.m3u8
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_w64772345_b344100_sleng.m3u8
+
+#EXTINF:-1 tvg-id="Animax" tvg-name="Tipiwan" tvg-logo="" group-title="All-New-TYL#2",Tipiwan
+https://op-group1-swiftservehd-1.dens.tv/h/h40/02.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
+#EXTINF:-1 tvg-id="Animax" tvg-name="Tvrisport" tvg-logo="" group-title="All-New-TYL#2",Tvrisport
+https://op-group1-swiftservesd-1.dens.tv/s/s107/02.m3u8
+https://op-group1-swiftservesd-1.dens.tv/s/s107/01.m3u8
+#EXTINF:-1 tvg-id="Animax" tvg-name="TVRI" tvg-logo="" group-title="All-New-TYL#2",TVRI
+https://op-group1-swiftservesd-1.dens.tv/s/s11/02.m3u8
+https://op-group1-swiftservesd-1.dens.tv/s/s11/01.m3u8
+#EXTINF:-1 tvg-id="Animax" tvg-name="TvN" tvg-logo="" group-title="All-New-TYL#2"TvN
+https://op-group2-swiftservehd-1.dens.tv/h/h20/02.m3u8
+https://op-group2-swiftservehd-1.dens.tv/h/h20/01.m3u8
+#EXTINF:-1 tvg-id="Animax" tvg-name="TvN Movis" tvg-logo="" group-title="All-New-TYL#2",TvN Movis
+https://op-group2-swiftservehd-1.dens.tv/h/h21/02.m3u8
+https://op-group2-swiftservehd-1.dens.tv/h/h21/01.m3u8
+#EXTINF:-1 tvg-id="Animax" tvg-name="Showbiz tvg-logo="" group-title="All-New-TYL#2",Showbiz
+https://op-group1-swiftservehd-1.dens.tv/h/h244/02.m3u8
+
 
 #EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="" group-title="All-New-TYL",Animax
 https://smart.946985.filegear-sg.me/smart.php?id=Animax
