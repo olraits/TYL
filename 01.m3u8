@@ -66,6 +66,25 @@ https://op-group2-swiftservehd-1.dens.tv/h/h21/01.m3u8
 #EXTINF:-1 tvg-id="Animax" tvg-name="Showbiz tvg-logo="" group-title="All-New-TYL#2",Showbiz
 https://op-group1-swiftservehd-1.dens.tv/h/h244/02.m3u8
 
+#EXTINF:-1 tvg-id="Animax" tvg-name="Kix" tvg-logo="" group-title="All-New-TYL#2",Kix
+https://op-group2-swiftservehd-1.dens.tv/h/h07/02.m3u8
+https://op-group2-swiftservehd-1.dens.tv/h/h07/01.m3u8
+#EXTINF:-1 tvg-id="Animax" tvg-name="Fight" tvg-logo="" group-title="All-New-TYL#2",Fight
+https://op-group2-swiftservehd-1.dens.tv/h/h05/02.m3u8
+https://op-group2-swiftservehd-1.dens.tv/h/h05/01.m3u8
+#EXTINF:-1 tvg-id="Animax" tvg-name="JakTV" tvg-logo="" group-title="All-New-TYL#2",JakTV
+https://op-group1-swiftservesd-1.dens.tv/s/s123/S4/mnf.m3u8
+#EXTINF:-1 tvg-id="Animax" tvg-name="Jowo" tvg-logo="" group-title="All-New-TYL#2"Jowo
+https://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h208/01.m3u8
+#EXTINF:-1 tvg-id="Animax" tvg-name="Know" tvg-logo="" group-title="All-New-TYL#2",Know
+https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h236/01.m3u8
+#EXTINF:-1 tvg-id="Animax" tvg-name="Motor" tvg-logo="" group-title="All-New-TYL#2",Motor
+https://op-group1-swiftservehd-1.dens.tv/h/h123/live.m3u8
+#EXTINF:-1 tvg-id="Animax" tvg-name="Motor" tvg-logo="" group-title="All-New-TYL#2",MotorV
+https://op-group1-swiftservehd-1.dens.tv/h/h09/02.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8
 
 #EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="" group-title="All-New-TYL",Animax
 https://smart.946985.filegear-sg.me/smart.php?id=Animax
