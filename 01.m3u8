@@ -767,7 +767,66 @@ https://a1xs.vip/300037
 #EXTINF:-1 tvg-id="300036"  tvg-name="Disney Junior"    tvg-logo= "https://i.imgur.com/9cTFAUP.png"    group-title= "US Channels", Disney jr.
 https://a1xs.vip/300036
 
-
+#EXTINF:-1 tvg-id="1000015"  tvg-name="BBC News FHD"    tvg-logo= "https://i.imgur.com/wZcplCT.png"    group-title= "UK Channels", BBC
+https://a1xs.vip/1000015
+#EXTINF:-1 tvg-id="1000016"  tvg-name="CNN UK FHD"    tvg-logo= "https://i.imgur.com/iXbtNPJ.png"    group-title= "UK Channels", CNN
+https://a1xs.vip/1000016 
+#EXTINF:-1 tvg-id="1000017"  tvg-name="GB News FHD"    tvg-logo= "https://i.imgur.com/0OLwnMR.png"    group-title= "UK Channels", GB
+https://a1xs.vip/1000017
+#EXTINF:-1 tvg-id="1000018"  tvg-name="Sky News FHD"    tvg-logo= "https://i.imgur.com/OrPaXvv.png"    group-title= "UK Channels", Sky
+https://a1xs.vip/1000018
+#EXTINF:-1 tvg-id="1000001"  tvg-name="BBC One FHD"    tvg-logo= "https://i.ibb.co/Xk2nLVq/BBC-One.png"    group-title= "UK Channels", BBC1
+https://a1xs.vip/1000001
+#EXTINF:-1 tvg-id="1000002"  tvg-name="BBC Two FHD"    tvg-logo= "https://i.ibb.co/7vG6Nvz/BBC-Two.png"    group-title= "UK Channels", BBC2
+https://a1xs.vip/1000002
+#EXTINF:-1 tvg-id="1000003"  tvg-name="BBC Three / CBBC FHD"    tvg-logo= "https://i.ibb.co/n8t4rCh/BBC-Three.png"    group-title= "UK Channels", BBC3
+https://a1xs.vip/1000003
+#EXTINF:-1 tvg-id="1000011"  tvg-name="iTV1 FHD"    tvg-logo= "https://i.ibb.co/g6TqxVm/ITV1.png"    group-title= "UK Channels", iTV1
+https://a1xs.vip/1000011
+#EXTINF:-1 tvg-id="1000012"  tvg-name="iTV2 FHD"    tvg-logo= "https://i.ibb.co/Yc66t7f/ITV2.png"    group-title= "UK Channels", iTV2
+https://a1xs.vip/1000012
+#EXTINF:-1 tvg-id="1000013"  tvg-name="iTV3 FHD"    tvg-logo= "https://i.ibb.co/fHbyKrt/ITV3.png"    group-title= "UK Channels", iTV3
+https://a1xs.vip/1000013
+#EXTINF:-1 tvg-id="1000014"  tvg-name="iTV4 FHD"    tvg-logo= "https://i.ibb.co/rQhNxbN/ITV4.png"    group-title= "UK Channels", iTV4
+https://a1xs.vip/1000014
+#EXTINF:-1 tvg-id="1000031"  tvg-name="Channel 4 FHD"    tvg-logo= "https://i.ibb.co/v3WBCFV/Channel-4.png"    group-title= "UK Channels", C4
+https://a1xs.vip/1000031
+#EXTINF:-1 tvg-id="1000030"  tvg-name="Channel 5 FHD"    tvg-logo= "https://i.ibb.co/16SnsKq/skychb1800.png"    group-title= "UK Channels", C5
+https://a1xs.vip/1000030
+#EXTINF:-1 tvg-id="1000032"  tvg-name="E4 FHD"    tvg-logo= "https://i.imgur.com/ium8n7E.png"    group-title= "UK Channels", E4
+https://a1xs.vip/1000032
+#EXTINF:-1 tvg-id="1000034"  tvg-name="MORE4 FHD"    tvg-logo= "https://i.imgur.com/cUMgPAZ.png"    group-title= "UK Channels", More4
+https://a1xs.vip/1000034
+#EXTINF:-1 tvg-id="1000036"  tvg-name="4Seven FHD"    tvg-logo= "https://i.imgur.com/DtUIn7I.png"    group-title= "UK Channels", 4seven
+https://a1xs.vip/1000036
+#EXTINF:-1 tvg-id="1000035"  tvg-name="FILM4 FHD"    tvg-logo= "https://i.imgur.com/OjiHaqa.png"    group-title= "UK Channels", Film4
+https://a1xs.vip/1000035
+#EXTINF:-1 tvg-id="1000037"  tvg-name="MTV FHD"    tvg-logo= "https://i.imgur.com/CeKvKIu.png"    group-title= "UK Channels",MTV 
+https://a1xs.vip/1000037
+#EXTINF:-1 tvg-id="1000033"  tvg-name="Discovery Channel FHD"    tvg-logo= "https://i.imgur.com/1eM0KX8.png"    group-title= "UK Channels", DscovrFHD
+https://a1xs.vip/1000033
+#EXTINF:-1 tvg-id="210001"  tvg-name="Sky Atlantic FHD"    tvg-logo= "https://pixvid.org/images/2025/02/10/sky-atlantic.png"    group-title= "UK Channels", Sky Atlantic
+https://a1xs.vip/210001
+#EXTINF:-1 tvg-id="210002"  tvg-name="Sky Cinema Hits FHD"    tvg-logo= "https://pixvid.org/images/2025/02/10/sky-cinema-hits.png"    group-title= "UK Channels", Skycinema hits
+https://a1xs.vip/210002
+#EXTINF:-1 tvg-id="210003"  tvg-name="Sky Cinema Premiere FHD"    tvg-logo= "https://pixvid.org/images/2025/02/10/sky-cinema-premiere.png"    group-title= "UK Channels", Sky premiere
+https://a1xs.vip/210003
+#EXTINF:-1 tvg-id="210004"  tvg-name="Sky Cinema Select FHD"    tvg-logo= "https://pixvid.org/images/2025/02/10/sky-cinema-select.png"    group-title= "UK Channels", Sky cine slect
+https://a1xs.vip/210004
+#EXTINF:-1 tvg-id="210006"  tvg-name="Sky Cinema Action FHD"    tvg-logo= "https://pixvid.org/images/2025/02/10/sky-cinema-action.png"    group-title= "UK Channels", sky action film
+https://a1xs.vip/210006
+#EXTINF:-1 tvg-id="210007"  tvg-name="Sky Cinema Family FHD"    tvg-logo= "https://pixvid.org/images/2025/02/11/sky-family.png"    group-title= "UK Channels", sky family cine
+https://a1xs.vip/210007
+#EXTINF:-1 tvg-id="210005"  tvg-name="Sky Cinema Comedy FHD"    tvg-logo= "https://pixvid.org/images/2025/02/10/sky-cinema-comedy.png"    group-title= "UK Channels", sky comedy
+https://a1xs.vip/210005
+#EXTINF:-1 tvg-id="1000050"  tvg-name="Cartoon Network UK FHD"    tvg-logo= "https://pixvid.org/images/2025/02/27/cartoon-network.png"    group-title= "UK Channels", CNFHD
+https://a1xs.vip/1000050
+#EXTINF:-1 tvg-id="1000051"  tvg-name="Nickelodeon UK FHD"    tvg-logo= "https://pixvid.org/images/2025/02/27/Nickelodeon.png"    group-title= "UK Channels", NickFHD
+https://a1xs.vip/1000051
+#EXTINF:-1 tvg-id="1000052"  tvg-name="Nick Jr. UK FHD"    tvg-logo= "https://pixvid.org/images/2025/02/27/Nick_Jr.png"    group-title= "UK Channels", Nick Jr.
+https://a1xs.vip/1000052
+#EXTINF:-1 tvg-id="100054"  tvg-name="Nicktoon UK"    tvg-logo= "https://i.imgur.com/X3eFHe6.png"    group-title= "UK Channels", Nicktoon UK
+https://a1xs.vip/100054
 ========================================================================================================================
 #EXTM3U url-tvg="https://warningfm.github.io/x1/epg/guide.xml.gz, https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml, https://www.open-epg.com/files/indonesia1.xml, https://www.open-epg.com/files/indonesia2.xml, https://www.open-epg.com/files/indonesia3.xml, https://www.open-epg.com/files/indonesia4.xml, https://www.open-epg.com/files/indonesia5.xml, https://www.open-epg.com/files/indonesia6.xml, https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml, https://tinyurl.com/DrewLive002-epg" refresh="3600"
 # ██ ██ █ ██ ██ █ █▀█ █ █▀█ █ ▀█ ▀█
