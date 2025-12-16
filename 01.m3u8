@@ -912,6 +912,27 @@ https://starshare.cx/live/P4B9TB9xR8/humongous2tonight/186612.ts
 #EXTINF:-1 tvg-name="Now Sports Premier League 1" tvg-logo="https://i.imgur.com/WWi5Cjx.png" group-title="体育",Now Sports Premier League 1
 http://109.61.81.35:443/767/mpegts?token=1d8c18a3d377f5418d2501aa54082b60
 
+#EXTINF:-1 tvg-id="6000001"  tvg-name="TSN1"    tvg-logo= "https://i.imgur.com/xF3cHNd.png"    group-title= "CA Sports", TSN1 
+https://a1xs.vip/6000001
+#EXTINF:-1 tvg-id="6000002"  tvg-name="TSN2"    tvg-logo= "https://i.imgur.com/iTSoxQW.png"    group-title= "CA Sports", TSN2
+https://a1xs.vip/6000002
+#EXTINF:-1 tvg-id="6000003"  tvg-name="TSN3"    tvg-logo= "https://i.imgur.com/dPMY5Kc.png"    group-title= "CA Sports", TSN3
+https://a1xs.vip/6000003
+#EXTINF:-1 tvg-id="6000004"  tvg-name="TSN4"    tvg-logo= "https://i.imgur.com/9EInDNq.png"    group-title= "CA Sports", TSN4
+https://a1xs.vip/6000004
+#EXTINF:-1 tvg-id="6000005"  tvg-name="TSN5"    tvg-logo= "https://i.imgur.com/houBcHX.png"    group-title= "CA Sports", TSN5
+https://a1xs.vip/6000005
+#EXTINF:-1 tvg-id="6000011"  tvg-name="Sportsnet Ontario FHD"    tvg-logo= "https://i.imgur.com/o6Ct6Ce.png"    group-title= "CA Sports", Sportsnet 1
+https://a1xs.vip/6000011 
+#EXTINF:-1 tvg-id="6000012"  tvg-name="Sportsnet One FHD"    tvg-logo= "https://i.imgur.com/SxBnZN0.png"    group-title= "CA Sports", Sporstnet001
+https://a1xs.vip/6000012
+#EXTINF:-1 tvg-id="6000013"  tvg-name="Sportsnet World FHD"    tvg-logo= "https://i.imgur.com/EJy8K7F.png"    group-title= "CA Sports", Sportsnet3
+https://a1xs.vip/6000013
+#EXTINF:-1 tvg-id="6000014"  tvg-name="Sportsnet 360 FHD"    tvg-logo= "https://i.imgur.com/8YNVKqC.png"    group-title= "CA Sports", sportsnet360
+https://a1xs.vip/6000014
+#EXTINF:-1 tvg-id="6000015"  tvg-name="Sportsnet West"    tvg-logo= "https://i.imgur.com/GAlu4gn.png"    group-title= "CA Sports", sportsnetw
+https://a1xs.vip/6000015
+
 ========================================================================================================================
 #EXTM3U url-tvg="https://warningfm.github.io/x1/epg/guide.xml.gz, https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml, https://www.open-epg.com/files/indonesia1.xml, https://www.open-epg.com/files/indonesia2.xml, https://www.open-epg.com/files/indonesia3.xml, https://www.open-epg.com/files/indonesia4.xml, https://www.open-epg.com/files/indonesia5.xml, https://www.open-epg.com/files/indonesia6.xml, https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml, https://tinyurl.com/DrewLive002-epg" refresh="3600"
 # ██ ██ █ ██ ██ █ █▀█ █ █▀█ █ ▀█ ▀█
