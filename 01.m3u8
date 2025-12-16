@@ -827,6 +827,91 @@ https://a1xs.vip/1000051
 https://a1xs.vip/1000052
 #EXTINF:-1 tvg-id="100054"  tvg-name="Nicktoon UK"    tvg-logo= "https://i.imgur.com/X3eFHe6.png"    group-title= "UK Channels", Nicktoon UK
 https://a1xs.vip/100054
+
+#EXTM3U
+#EXT-X-APP APTV
+
+#EXTINF:-1 tvg-id="171855" tvg-name="Al Jazeera English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/400px-Aljazeera_eng.svg.png" group-title="HIGHLIGHT US/UK",Al Jazeera English
+https://live-hls-apps-aje-v3-fa.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-id="9206" tvg-name="BBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/330px-BBC_News_2022_%28Alt%29.svg.png" group-title="HIGHLIGHT US/UK",BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="464857" tvg-name="CNN US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/CNN_Logo_%282014%29.svg/500px-CNN_Logo_%282014%29.svg.png" group-title="HIGHLIGHT US/UK",CNN US
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="465021" tvg-name="CNN International" tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/CNN-Logo.png" group-title="HIGHLIGHT US/UK",CNN International
+https://d3508xo7u38fy2.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-j79jq28qz6knd/4fccb6e5-1f56-4969-a225-ea82b442080e/0.m3u8
+#EXTINF:-1 tvg-id="465372" tvg-name="Fox News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/500px-Fox_News_Channel_logo.svg.png" group-title="HIGHLIGHT US/UK",Fox News Channel
+http://143.244.60.30/FOX_NEWS_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="464889" tvg-name="MS NOW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/MS_NOW_logo.svg/2560px-MS_NOW_logo.svg.png" group-title="HIGHLIGHT US/UK",MS NOW
+http://cord-cutter.net:8080/81945791/05013455/21376
+#EXTINF:-1 tvg-id="464791" tvg-name="CNBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" group-title="HIGHLIGHT US/UK",CNBC
+http://143.244.60.30/CNBC/index.m3u8
+#EXTINF:-1 tvg-id="468311" tvg-name="CBS New York" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/CBS_New_York_logo.svg/500px-CBS_New_York_logo.svg.png" group-title="本地",CBS New York
+http://nocable.cc:8080/michellebrath@hotmail.com/dmNeFwzj6v/120749
+#EXTINF:-1 tvg-id="467015" tvg-name="NBC New York" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/WNBC_2023.svg/500px-WNBC_2023.svg.png" group-title="本地",NBC New York
+http://fl1.moveonjoy.com/NY_New_York_NBC/index.m3u8
+#EXTINF:-1 tvg-id="467679" tvg-name="ABC New York" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/500px-WABC_TV_New_2021.svg.png" group-title="本地",ABC New York
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1 tvg-id="468913" tvg-name="FOX New York" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fts-new-york-a.svg/500px-Fts-new-york-a.svg.png" group-title="本地",FOX New York
+http://supersonictv.live:8080/live/923429/481252/71678.m3u8
+#EXTINF:-1 tvg-id="464745" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="电影",HBO
+http://143.244.60.30/HBO/index.m3u8
+#EXTINF:-1 tvg-id="465332" tvg-name="Showtime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-us.png" group-title="电影",Showtime
+http://fl1.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1 tvg-id="464975" tvg-name="Starz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" group-title="电影",Starz
+http://143.244.60.30/STARZ/index.m3u8
+#EXTINF:-1 tvg-id="464917" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/500px-Cinemax_2016.svg.png" group-title="电影",Cinemax
+http://143.244.60.30/CINEMAX_EAST/index.m3u8
+#EXTINF:-1 tvg-id="465261" tvg-name="MGM+" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-us.png?raw=true" group-title="电影",MGM+
+http://fl1.moveonjoy.com/EPIX/index.m3u8
+#EXTINF:-1 tvg-id="464813" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/500px-FX_International_logo.svg.png" group-title="电影",FX
+http://143.244.60.30/FX/index.m3u8
+#EXTINF:-1 tvg-id="465032" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/500px-AMC_logo_2019.svg.png" group-title="电影",AMC
+http://143.244.60.30/AMC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="464882" tvg-name="Paramount Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/paramount-network-us.png?raw=true" group-title="娱乐",Paramount Network
+http://143.244.60.30/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="465285" tvg-name="TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/TBS_2020.svg/500px-TBS_2020.svg.png" group-title="娱乐",TBS
+http://143.244.60.30/TBS/index.m3u8
+#EXTINF:-1 tvg-id="465006" tvg-name="USA Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" group-title="娱乐",USA Network
+http://143.244.60.30/USA_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="465114" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/500px-TNT_%28TV_Channel%29.svg.png" group-title="娱乐",TNT
+https://a1xs.vip/300001
+#EXTINF:-1 tvg-id="465089" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/500px-Natgeologo.svg.png" group-title="记录",National Geographic
+http://fl1.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:-1 tvg-id="465364" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/500px-Discovery_Channel_-_Logo_2019.svg.png" group-title="记录",Discovery Channel
+https://a1xs.vip/300034
+#EXTINF:-1 tvg-id="465310" tvg-name="Animal Planet" tvg-logo="https://i.ibb.co/k6hCxknW/Animal-Planet.png" group-title="记录",Animal Planet
+https://a1xs.vip/300035
+#EXTINF:-1 tvg-id="465176" tvg-name="History Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png" group-title="记录",History Channel
+http://143.244.60.30/history_channel/index.m3u8
+#EXTINF:-1 tvg-id="465042" tvg-name="Smithsonian Channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/smithsonian-channel-us.png?raw=true" group-title="记录",Smithsonian Channel
+http://143.244.60.30/SMITHSONIAN_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="USBD1700001RW" tvg-name="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/BBC_Earth_2023.svg/500px-BBC_Earth_2023.svg.png" group-title="记录",BBC Earth
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/58366634-aa54-41fa-8923-4938bc769f8a/0.m3u8
+#EXTINF:-1 tvg-id="USBA3400003IP" tvg-name="Love Nature 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Love_Nature_logo_%282025%29.svg/500px-Love_Nature_logo_%282025%29.svg.png" group-title="记录",Love Nature 4K
+https://pb-ehs1glsha1juy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ehs1glsha1juy/00ee4f47-16cf-4246-84ae-732b43eb8dfc/0.m3u8?ads.cdn=ak&ads.service_id=USBA3400003IP&ads.ssai_vendor=SSSLIVE&ads.us_privacy=1YNY&pb_type=pb-ehs1glsha1juy_akamai
+#EXTINF:-1 tvg-id="USBA3800005NI" tvg-name="Clarity 4K" tvg-logo="https://i.imgur.com/M87kbVk.png" group-title="记录",Clarity 4K
+https://pb-qyrvophnifz47.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-qyrvophnifz47/71de7238-8bc8-4659-b246-1426dec77380/3.m3u8
+#EXTINF:-1 tvg-id="465198" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="体育",ESPN
+http://cord-cutter.net:8080/30550113/30550113/14197
+#EXTINF:-1 tvg-id="465291" tvg-name="Fox Sports 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-1-us.png?raw=true" group-title="体育",Fox Sports 1
+https://fl7.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-id="464912" tvg-name="NBA TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png" group-title="体育",NBA TV
+http://fl1.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 tvg-id="464754" tvg-name="beIN Sports USA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-us.png?raw=true" group-title="体育",beIN Sports USA
+http://143.244.60.30/BEIN_SPORTS/index.m3u8
+#EXTINF:-1 tvg-id="400476" tvg-name="TNT Sports Ultimate" tvg-logo="https://i.ibb.co/QqGdJnM/TNTSprts-U.png" group-title="体育",TNT Sports Ultimate 4K
+https://7pal.short.gy/TNTUltimate
+#EXTINF:-1 tvg-id="7673" tvg-name="Sky Sports Main Event" tvg-logo="https://i.ibb.co/gwCk7Bc/sky-m-event-uhd.png" group-title="体育",Sky Sports Main Event 4K
+https://a1xs.vip/2000015
+#EXTINF:-1 tvg-id="412947" tvg-name="Sky Sports F1" tvg-logo="https://i.ibb.co/1tmrNyj9/Sky-Sport-F1-UHD.png" group-title="体育",Sky Sports F1 4K
+https://a1xs.vip/2000016
+#EXTINF:-1 tvg-name="Sky Sports Premier League" tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="体育",Sky Sports Premier League
+https://starshare.cx/live/P4B9TB9xR8/humongous2tonight/186604.ts
+#EXTINF:-1 tvg-name="Sky Sports Football" tvg-logo="https://i.imgur.com/V5FbXRm.png" group-title="体育",Sky Sports Football
+https://starshare.cx/live/P4B9TB9xR8/humongous2tonight/186612.ts
+#EXTINF:-1 tvg-name="Now Sports Premier League 1" tvg-logo="https://i.imgur.com/WWi5Cjx.png" group-title="体育",Now Sports Premier League 1
+http://109.61.81.35:443/767/mpegts?token=1d8c18a3d377f5418d2501aa54082b60
+
 ========================================================================================================================
 #EXTM3U url-tvg="https://warningfm.github.io/x1/epg/guide.xml.gz, https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml, https://www.open-epg.com/files/indonesia1.xml, https://www.open-epg.com/files/indonesia2.xml, https://www.open-epg.com/files/indonesia3.xml, https://www.open-epg.com/files/indonesia4.xml, https://www.open-epg.com/files/indonesia5.xml, https://www.open-epg.com/files/indonesia6.xml, https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml, https://tinyurl.com/DrewLive002-epg" refresh="3600"
 # ██ ██ █ ██ ██ █ █▀█ █ █▀█ █ ▀█ ▀█
