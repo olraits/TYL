@@ -1,5 +1,66 @@
 
 #EXTM3U
+#EXTINF:-1 tvg-id="700001"  tvg-name="Fox Sports 501 FHD"    tvg-logo= "https://i.imgur.com/59gCbVd.png"    group-title= "AU Sports", FX501
+https://a1xs.vip/700001
+#EXTINF:-1 tvg-id="700002"  tvg-name="Fox Sports 502 FHD"    tvg-logo= "https://i.imgur.com/idKGREY.png"    group-title= "AU Sports", F502
+https://a1xs.vip/700002
+#EXTINF:-1 tvg-id="700003"  tvg-name="Fox Sports 503 FHD"    tvg-logo= "https://i.imgur.com/5PUsSnn.png"    group-title= "AU Sports", F503
+https://a1xs.vip/700003
+#EXTINF:-1 tvg-id="700004"  tvg-name="Fox Sports 504 FHD"    tvg-logo= "https://i.imgur.com/aEoU7gf.png"    group-title= "AU Sports", F504
+https://a1xs.vip/700004
+#EXTINF:-1 tvg-id="700005"  tvg-name="Fox Sports 505 FHD"    tvg-logo= "https://i.imgur.com/angJkah.png"    group-title= "AU Sports", F505
+https://a1xs.vip/700005
+#EXTINF:-1 tvg-id="700006"  tvg-name="Fox Sports 506 FHD"    tvg-logo= "https://i.imgur.com/eA1hiR0.png"    group-title= "AU Sports", F506
+https://a1xs.vip/700006
+#EXTINF:-1 tvg-id="700007"  tvg-name="Fox Sports 507 FHD"    tvg-logo= "https://i.imgur.com/kGm7Ts1.png"    group-title= "AU Sports", F507
+https://a1xs.vip/700007
+
+#EXTINF:-1 tvg-id="700031"  tvg-name="SKY Sport 1 NZ"    tvg-logo= "https://i.imgur.com/NRK8Uc6.png"    group-title= "NZ Sports", NZ sport1
+https://a1xs.vip/700031
+#EXTINF:-1 tvg-id="700032"  tvg-name="SKY Sport 2 NZ"    tvg-logo= "https://i.imgur.com/IEDwF39.png"    group-title= "NZ Sports", NZ sport2
+https://a1xs.vip/700032
+#EXTINF:-1 tvg-id="700033"  tvg-name="SKY Sport 3 NZ"    tvg-logo= "https://i.imgur.com/gTeEX4f.png"    group-title= "NZ Sports", NZ sport3
+https://a1xs.vip/700033
+#EXTINF:-1 tvg-id="700034"  tvg-name="SKY Sport 4 NZ"    tvg-logo= "https://i.imgur.com/ogjOWQV.png"    group-title= "NZ Sports", NZ sport4
+https://a1xs.vip/700034
+#EXTINF:-1 tvg-id="700035"  tvg-name="SKY Sport 5 NZ"    tvg-logo= "https://i.imgur.com/zIRnRJM.png"    group-title= "NZ Sports", NZ sport5
+https://a1xs.vip/700035
+#EXTINF:-1 tvg-id="700036"  tvg-name="SKY Sport 6 NZ"    tvg-logo= "https://i.imgur.com/o0Icbjt.png"    group-title= "NZ Sports", NZ sport6
+https://a1xs.vip/700036
+#EXTINF:-1 tvg-id="700037"  tvg-name="SKY Sport 7 NZ"    tvg-logo= "https://i.imgur.com/AznJTOJ.png"    group-title= "NZ Sports", NZ sport7
+https://a1xs.vip/700037
+
+#EXTINF:-1 tvg-id="8000021"  tvg-name="Premier Sports 1 FHD"    tvg-logo= "https://i.imgur.com/2PGUHlW.png"    group-title= "EU Sports", Premier Sports 1 FHD
+https://a1xs.vip/8000021 
+#EXTINF:-1 tvg-id="8000022"  tvg-name="Premier Sports 2 FHD"    tvg-logo= "https://i.imgur.com/mLYkn9p.png"    group-title= "EU Sports", Premier Sports 2 FHD
+https://a1xs.vip/8000022
+#EXTINF:-1 tvg-id="120001"  tvg-name="Sportdigital Fussball FHD"    tvg-logo= "https://i.imgur.com/8KiZkJF.png"    group-title= "EU Sports", Sportdigital Fussball FHD
+https://a1xs.vip/120001
+#EXTINF:-1 tvg-id="120002"  tvg-name="Sky Sport Bundesliga FHD"    tvg-logo= "https://i.imgur.com/EhInbSW.png"    group-title= "EU Sports",Sky Sport1
+https://a1xs.vip/120002
+#EXTINF:-1 tvg-id="120003"  tvg-name="Sky Sport Top Event FHD"    tvg-logo= "https://i.imgur.com/0iFbfLa.png"    group-title= "EU Sports", Sky Spor2
+https://a1xs.vip/120003
+#EXTINF:-1 tvg-id="120004"  tvg-name="Sky Sport PL DE"    tvg-logo= "https://i.imgur.com/9QfVskT.png"    group-title= "EU Sports", Sky SportPL
+https://a1xs.vip/120004
+#EXTINF:-1 tvg-id="130001"  tvg-name="Super Sport 1 FHD"    tvg-logo= "https://i.imgur.com/zI22zLw.png"    group-title= "EU Sports", SSUPER1
+https://a1xs.vip/130001
+#EXTINF:-1 tvg-id="130002"  tvg-name="Super Sport 2 FHD"    tvg-logo= "https://i.imgur.com/zI22zLw.png"    group-title= "EU Sports", SSUPER2
+https://a1xs.vip/130002
+#EXTINF:-1 tvg-id="130003"  tvg-name="Super Sport 3 FHD"    tvg-logo= "https://i.imgur.com/zI22zLw.png"    group-title= "EU Sports", SSUPER3
+https://a1xs.vip/130003
+#EXTINF:-1 tvg-id="140001"  tvg-name="Ziggo Sport FHD"    tvg-logo= "https://i.imgur.com/8mnQvB5.png"    group-title= "EU Sports", ZIGGO1
+https://a1xs.vip/140001
+#EXTINF:-1 tvg-id="140002"  tvg-name="Ziggo Sport 2 FHD"    tvg-logo= "https://i.imgur.com/8mnQvB5.png"    group-title= "EU Sports", ZIGGO2
+https://a1xs.vip/140002
+#EXTINF:-1 tvg-id="140003"  tvg-name="Ziggo Sport 3 FHD"    tvg-logo= "https://i.imgur.com/8mnQvB5.png"    group-title= "EU Sports", ZIGGO3
+https://a1xs.vip/140003
+#EXTINF:-1 tvg-id="140004"  tvg-name="Ziggo Sport 4 FHD"    tvg-logo= "https://i.imgur.com/8mnQvB5.png"    group-title= "EU Sports", ZIGGO4
+https://a1xs.vip/140004
+#EXTINF:-1 tvg-id="8000011"  tvg-name="Star Sports Select 1 FHD"    tvg-logo= "https://i.imgur.com/VFyADIN.png"    group-title= "World Sports", SSELECT IND1
+https://a1xs.vip/8000011
+#EXTINF:-1 tvg-id="8000012"  tvg-name="Star Sports Select 2 FHD"    tvg-logo= "https://i.imgur.com/6u2iOjA.png"    group-title= "World Sports", SSELECTIND2
+https://a1xs.vip/8000012
+
 #EXTINF:-1 tvg-id="Animax" tvg-name="TRT" tvg-logo="" group-title="All-New-TYL#2",TRT
 https://op-group1-swiftservehd-1.dens.tv/h/h156/S4/mnf.m3u8
 #EXTINF:-1 tvg-id="Animax" tvg-name="ALZRAA" tvg-logo="" group-title="All-New-TYL#2",Aljazeera (EN)
